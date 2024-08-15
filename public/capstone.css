@@ -1,0 +1,38 @@
+.border p{
+display: block;
+padding: 7px;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+margin: auto;
+color: rgb(194, 16, 16);
+background-color: burlywood;
+position: relative;
+
+}
+td img{
+    border-radius: 50%;
+}
+h2{
+    color: blue;
+    font-weight: bold;
+    border: 5px solid yellowgreen;
+}
+.table{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul li{
+    font-weight: bold;
+    background-color: azure;
+    font-size: large;
+    background-color: burlywood;
+    color: brown;
+}
+tr th{
+    color: blueviolet;
+    font-size: large;
+}
+tr td{
+    color: rgb(175, 16, 56);
+    font-size: 20px;
+}
